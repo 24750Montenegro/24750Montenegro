@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="hacker.svg" alt="Hacker" width="150" style="vertical-align: bottom;">Juan Francisco Montenegro
+  <img src="hacker.svg" alt="Hacker" width="140" style="vertical-align: middle;">Juan Francisco Montenegro
 </h1>
 <p align="center">Computer Science Student @ UVG | Full-Stack Developer | Guatemala</p>
 
