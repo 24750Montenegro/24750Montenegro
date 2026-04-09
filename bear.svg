@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="30">
+  <style>
+    .bear { 
+      fill: #bf91f3; /* Color púrpura/magenta para contraste */
+      font-family: monospace, sans-serif; 
+      font-size: 20px; 
+      font-weight: bold; 
+    }
+    
+    .eye {
+      animation: blink 4s infinite 1s; /* Parpadea con 1s de retraso respecto al hacker */
+    }
+
+    .hand { 
+      transform-origin: 90px 22px; 
+      animation: salute 0.8s ease-in-out infinite alternate;
+    }
+
+    @keyframes blink {
+      0%, 96%, 100% { transform: scaleY(1); }
+      98% { transform: scaleY(0.1); }
+    }
+
+    @keyframes salute {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(-30deg); }
+    }
+  </style>
+  <text x="5" y="22" class="bear">ʕ</text>
+  <text x="20" y="22" class="bear eye" style="transform-origin: 25px 15px;">•́</text>
+  <text x="35" y="22" class="bear">ᴥ</text>
+  <text x="55" y="22" class="bear eye" style="transform-origin: 60px 15px;">•̀</text>
+  <text x="70" y="22" class="bear">ʔ</text>
+  <text x="85" y="22" class="bear hand">っ</text>
+</svg>

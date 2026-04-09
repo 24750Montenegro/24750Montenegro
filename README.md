@@ -1,4 +1,6 @@
-<h1 align="center">(⌐■_■) Juan Francisco Montenegro (c4ch0)</h1>
+<h1 align="center">
+  <img src="hacker.svg" alt="Hacker" width="180" style="vertical-align: bottom;">Juan Francisco Montenegro
+</h1>
 <p align="center">Computer Science Student @ UVG | Full-Stack Developer | Guatemala</p>
 
 <p align="center">
@@ -16,8 +18,7 @@
 
 ---
 
-##About Me
-```yaml
+<h2 align="center"><img src="bear.svg" alt="Bear" width="160" style="vertical-align: middle;"> About Me</h2>```yaml
 education:
   - "Computer Science and IT Engineering student at UVG."
   - "Distinguished student and Fundación Juan Bautista Gutiérrez Scholar."
@@ -40,11 +41,14 @@ experience:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 ### // Frontend & UX
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### // Backend & Frameworks
@@ -52,18 +56,25 @@ experience:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
+### // Data Science & AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3F4F75?style=flat&logo=python&logoColor=white)
+
 ### // Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 
 
-## ₍^. .^₎Ⳋ  GitHub Stats  ₍^. .^₎Ⳋ 
-
+<h2 align="center"><img src="cat.svg" alt="Cat" width="120" style="vertical-align: middle;"> GitHub Stats <img src="cat.svg" alt="Cat" width="120" style="vertical-align: middle;"></h2>
 <p align="center">
   <img src="https://c4ch0-github-stats.vercel.app/api?username=24750Montenegro&show_icons=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=24750Montenegro&background=0d1117&ring=00ffff&fire=00ffff&currStreakNum=ffffff&currStreakLabel=00ffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="GitHub Streak" />
