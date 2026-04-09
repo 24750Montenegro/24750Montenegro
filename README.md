@@ -18,7 +18,9 @@
 
 ---
 
-<h2 align="center"><img src="bear.svg" alt="Bear" width="120" style="vertical-align: middle;"> About Me</h2>```yaml
+<h2 align="center"><img src="bear.svg" alt="Bear" width="120" style="vertical-align: middle;"> About Me</h2>
+
+```yaml
 education:
   - "Computer Science and IT Engineering student at UVG."
   - "Distinguished student and Fundación Juan Bautista Gutiérrez Scholar."
