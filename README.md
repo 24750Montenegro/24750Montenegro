@@ -16,13 +16,20 @@
 
 ---
 
-## ◝(ᵔᗜᵔ)◜ About Me
->_ Computer Science and IT Engineering student at Universidad del Valle de Guatemala (UVG).
->_ Distinguished student and Fundación Juan Bautista Gutiérrez Scholar.
->_ Passionate about building useful, understandable, and impactful software, focusing on Artificial Intelligence and User Experience (UX).
->_ Actively developing projects that blend automation, data analysis, and environmental sustainability.
->_ Professional experience as a Full-Stack Developer, working with modern web technologies and backend architectures.
-
+##About Me
+```yaml
+education:
+  - "Computer Science and IT Engineering student at UVG."
+  - "Distinguished student and Fundación Juan Bautista Gutiérrez Scholar."
+focus:
+  - "Passionate about building useful, understandable, and impactful software."
+  - "Deeply interested in Artificial Intelligence and User Experience (UX)."
+currently_doing:
+  - "Developing projects blending automation, data analysis, and environmental sustainability."
+experience:
+  - "Professional Full-Stack Developer."
+  - "Building modern web technologies and robust backend architectures."
+```
 ---
 
 ## (╭ರ_•́) Tech Stack & Tools
@@ -53,20 +60,26 @@
 
 ---
 
-## ₍^. .^₎Ⳋ GitHub Stats
+
+
+## ₍^. .^₎Ⳋ  GitHub Stats  ₍^. .^₎Ⳋ 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=24750Montenegro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24750Montenegro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://c4ch0-github-stats.vercel.app/api?username=24750Montenegro&show_icons=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24750Montenegro&background=0d1117&ring=00ffff&fire=00ffff&currStreakNum=ffffff&currStreakLabel=00ffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24750Montenegro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://c4ch0-github-stats.vercel.app/api/top-langs/?username=24750Montenegro&layout=compact&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=24750Montenegro&bg_color=0d1117&color=c9d1d9&line=00ffff&point=ffffff&area=true&area_color=00ffff&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## ✧( ु•⌄• )◞ Featured Projects & Experience
+## ◝(ᵔᗜᵔ)◜ Featured Projects & Experience
 
 [-] **WaterWay+ (1st Place Hackathon Red Copernicus SENACYT)** Web platform for Motagua river protection using interactive maps, satellite data, and AI (MERN Stack).
 
@@ -80,5 +93,5 @@
 
 ---
 
-## ( ˶ˆ꒳ˆ˵ ) Note
+##Note
 Focusing on writing clean code, architecting intelligent systems, and building tools that actually make sense to the people who use them.
