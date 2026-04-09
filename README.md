@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="hacker.svg" alt="Hacker" width="180" style="vertical-align: bottom;">Juan Francisco Montenegro
+  <img src="hacker.svg" alt="Hacker" width="150" style="vertical-align: bottom;">Juan Francisco Montenegro
 </h1>
 <p align="center">Computer Science Student @ UVG | Full-Stack Developer | Guatemala</p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-<h2 align="center"><img src="bear.svg" alt="Bear" width="160" style="vertical-align: middle;"> About Me</h2>```yaml
+<h2 align="center"><img src="bear.svg" alt="Bear" width="120" style="vertical-align: middle;"> About Me</h2>```yaml
 education:
   - "Computer Science and IT Engineering student at UVG."
   - "Distinguished student and Fundación Juan Bautista Gutiérrez Scholar."
