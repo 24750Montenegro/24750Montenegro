@@ -79,7 +79,7 @@ experience:
 <h2 align="center"><img src="cat.svg" alt="Cat" width="120" style="vertical-align: middle;"> GitHub Stats <img src="cat.svg" alt="Cat" width="120" style="vertical-align: middle;"></h2>
 <p align="center">
   <img src="https://c4ch0-github-stats.vercel.app/api?username=24750Montenegro&show_icons=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=00ffff&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24750Montenegro&background=0d1117&ring=00ffff&fire=00ffff&currStreakNum=ffffff&currStreakLabel=00ffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=24750Montenegro&background=0d1117&ring=00ffff&fire=00ffff&currStreakNum=ffffff&currStreakLabel=00ffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
