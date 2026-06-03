@@ -2,6 +2,7 @@
   <img src="hacker.svg" alt="Hacker" width="140" style="vertical-align: middle;">Juan Francisco Montenegro
 </h1>
 <p align="center">Computer Science Student @ UVG | Full-Stack Developer | Guatemala</p>
+<p align="center"> AI Automation Developer @ Innovation & Textiles, S.A. | Guatemala </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/JuanMontenegro">
@@ -28,7 +29,7 @@ focus:
   - "Passionate about building useful, understandable, and impactful software."
   - "Deeply interested in Artificial Intelligence and User Experience (UX)."
 currently_doing:
-  - "Developing projects blending automation, data analysis, and environmental sustainability."
+  - "Developing projects blending automation, data analysis, and workflow optimization."
 experience:
   - "Professional Full-Stack Developer."
   - "Building modern web technologies and robust backend architectures."
@@ -96,13 +97,14 @@ experience:
 
 [-] **WaterWay+ (1st Place Hackathon Red Copernicus SENACYT)** Web platform for Motagua river protection using interactive maps, satellite data, and AI (MERN Stack).
 
+[-] CanSat 2026 World Competition (Finalist - Mexico) Developed the interactive user interface for the global aerospace competition, successfully positioning the project among the finalists.
+
 [-] **SeaSOS** Full Stack application dedicated to marine life care (ODS 14), built with Python Flask, React.js, and MongoDB. Data visualization using Pandas.
 
 [-] **Full-Stack Developer @ Visión Consultores S.A.** Experience developing modern web applications, implementing both backend and frontend functionalities.
 
 [-] **AI Voice Discord Bot** Integrating voice cloning models using ElevenLabs to create interactive and highly functional AI agents.
 
-[-] **Emergency Room Simulator** A Python-based simulation tool built to generate data and analyze operational efficiency in complex emergency scenarios.
 
 ---
 
